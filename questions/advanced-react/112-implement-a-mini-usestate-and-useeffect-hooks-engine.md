@@ -3,7 +3,7 @@
 **Track:** Advanced React & rendering  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Zomato
+**Reported at:** Zomato, Microsoft
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-mini-usestate-and-useeffect-hooks-engine)**: free, no account needed.
 

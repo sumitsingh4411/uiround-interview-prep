@@ -1,10 +1,76 @@
-# UIRound: frontend interview prep
+# Frontend interview questions and answers
 
-[UIRound](https://uiround.com) is a place to practise frontend interviews the way they actually happen: write the code in a browser editor, run real tests against it, then read a step-by-step answer and the follow-up questions an interviewer would ask next.
+[![Website](https://img.shields.io/badge/practise%20with%20tests-uiround.com-0071e3)](https://uiround.com) [![GitHub stars](https://img.shields.io/github/stars/sumitsingh4411/uiround-interview-prep?style=social)](https://github.com/sumitsingh4411/uiround-interview-prep/stargazers)
 
-This repository is the public home of the site. It has the free questions you can read here and solve on the site, a tour of everything the site does, and the place to **report bugs and ask for features**.
+Frontend interview questions and answers for **JavaScript, React, TypeScript, HTML and CSS, Next.js, Redux, machine coding and frontend system design**, from internships and freshers to SDE-1, SDE-2, senior and staff roles, at FAANG, startups and service companies such as TCS, Infosys and Wipro. Read the questions and short answers here, then solve them on [UIRound](https://uiround.com) in a browser editor with real tests, a step-by-step answer and the follow-up questions an interviewer asks next.
+
+⭐ **Star this repo** to keep it handy and help other developers find it.
+
+Looking for a long list to read through? The open-source [Frontend Interview Questions handbook](https://github.com/sumitsingh4411/frontend-interview-questions) has 3,000+ questions with worked solutions.
 
 <p align="center"><a href="https://uiround.com/questions/implement-debounce-with-cancel-and-flush"><img src="assets/editor.png" alt="A debounce question solved in the UIRound editor, with all 7 tests passing" width="900"></a></p>
+
+## Contents
+
+- [Interview questions and answers by topic](#interview-questions-and-answers-by-topic)
+- [Prepare by experience](#prepare-by-experience)
+- [Prepare by company](#prepare-by-company)
+- [Free coding questions with tests](#free-questions)
+- [Guides and the system design course](#guides)
+- [What you can do on the site](#what-you-can-do-on-the-site)
+- [Report a bug or ask for a feature](#found-a-bug-want-something-added)
+
+## Interview questions and answers by topic
+
+The concept questions interviewers open with, each with a short answer you can say out loud and a link to the full answer with examples.
+
+| Topic | Start with |
+| --- | --- |
+| [JavaScript interview questions and answers](answers/javascript.md) | What is a closure in JavaScript?<br>How does the this keyword work in JavaScript?<br>What is hoisting in JavaScript? |
+| [React interview questions and answers](answers/react.md) | What is the virtual DOM in React?<br>How does useEffect work: dependencies and cleanup<br>useMemo vs useCallback: what is the difference? |
+| [Next.js interview questions and answers](answers/nextjs.md) | SSR vs SSG vs ISR in Next.js: when to use which?<br>Server Components vs Client Components in Next.js: what does 'use client' do?<br>App Router vs Pages Router in Next.js: what is the difference? |
+| [State management interview questions and answers](answers/state.md) | What is Redux, and how does it work?<br>Context API vs Redux: which should you use?<br>What is Redux Toolkit, and why should you use it? |
+| [Vue interview questions and answers](answers/vue.md) | ref vs reactive in Vue 3: what is the difference?<br>v-if vs v-show in Vue: what is the difference?<br>What are Vue lifecycle hooks? |
+| [Angular interview questions and answers](answers/angular.md) | What are Angular lifecycle hooks and in what order do they run?<br>What are standalone components in Angular and how do they replace NgModules?<br>How does change detection work in Angular? |
+| [CSS interview questions and answers](answers/css.md) | What is the CSS box model?<br>Flexbox vs Grid: when to use which?<br>How does CSS specificity work? |
+| [HTML and accessibility interview questions and answers](answers/html.md) | What is semantic HTML, and why does it matter?<br>What is ARIA, and when should you use it?<br>How do you make a website accessible? |
+| [Browser and web interview questions and answers](answers/browser.md) | What happens when you type a URL into the browser?<br>What is CORS, and how does it work?<br>What is the critical rendering path? |
+| [TypeScript interview questions and answers](answers/typescript.md) | interface vs type in TypeScript<br>What are generics in TypeScript?<br>TypeScript vs JavaScript: why use TypeScript? |
+| [Performance interview questions and answers](answers/performance.md) | What are Core Web Vitals: LCP, INP and CLS?<br>What is lazy loading for images and routes?<br>What is a CDN, and how does it make sites faster? |
+| [Security interview questions and answers](answers/security.md) | What is XSS, and how do you prevent it?<br>What is CSRF, and how do you prevent it?<br>Should you store a JWT in localStorage or a cookie? |
+| [Testing interview questions and answers](answers/testing.md) | Unit vs integration vs end-to-end tests<br>What is React Testing Library, and how should you test components?<br>jest.fn vs jest.spyOn vs jest.mock: what is the difference? |
+| [Networking and HTTP interview questions and answers](answers/networking.md) | How does HTTP caching work? Freshness, validation and 304 responses<br>Forward proxy vs reverse proxy: what is the difference?<br>How does DNS resolution work? |
+| [Design patterns and architecture interview questions and answers](answers/patterns.md) | What are design patterns in JavaScript and which ones matter for frontend?<br>Micro-frontends: when do they help and when do they hurt?<br>Composition vs inheritance in React: why does React favour composition? |
+| [Behavioral and career interview questions and answers](answers/career.md) | How should a frontend engineer answer "Tell me about yourself"?<br>How do you answer "What are your strengths and weaknesses?" as a frontend engineer<br>How do you answer "Why do you want to work here?" |
+
+## Prepare by experience
+
+- [College students and interns](https://uiround.com/interview-questions/frontend-internship): Frontend and web developer internship interview questions for college students: HTML, CSS, JavaScript basics, DOM, simple React and easy coding problems.
+- [Freshers (0–1 years)](https://uiround.com/interview-questions/freshers): Frontend interview questions for freshers with tested answers: JavaScript fundamentals, polyfills, strings and arrays, DOM and events, CSS layout, and output-based puzzles that are asked in first frontend interviews.
+- [SDE-1 (0–2 years)](https://uiround.com/interview-questions/sde-1-frontend): SDE-1 frontend interview questions with tested answers: JavaScript fundamentals, DOM, HTML and CSS, React hooks, small machine coding builds and easy DSA.
+- [SDE-2 (2–5 years)](https://uiround.com/interview-questions/sde-2-frontend): SDE-2 frontend interview questions with tested answers: async JavaScript, React hooks and patterns, machine coding rounds and browser performance.
+- [JavaScript for 3–5+ years](https://uiround.com/interview-questions/javascript-experienced): JavaScript interview questions for 3 and 5 years of experience: async utilities, promise combinators, concurrency limits, cancellation, caching and browser architecture, with tested answers.
+- [React for 3–5+ years](https://uiround.com/interview-questions/react-experienced): React interview questions for 3 and 5 years of experience: custom hooks, re-renders and memoization, state architecture, concurrent rendering, server components and machine coding, with tested answers.
+- [Senior (5+ years)](https://uiround.com/interview-questions/senior-frontend): Senior frontend interview questions: system design, advanced React, concurrency and cancellation, browser architecture and large-scale machine coding.
+- [Staff and principal](https://uiround.com/interview-questions/staff-frontend): Staff and principal frontend interview questions: large-scale frontend system design, architecture, performance at scale, platform work and technical leadership.
+
+Not sure which level you are interviewing for? Read [SDE-1 vs SDE-2 vs senior vs staff frontend engineer](https://uiround.com/guides/sde-1-vs-sde-2-vs-senior-vs-staff-frontend).
+
+## Prepare by company
+
+- [FAANG and big tech](https://uiround.com/interview-questions/faang-frontend): FAANG frontend interview questions with tested answers: algorithmic JavaScript, UI components built from scratch, frontend system design, and reported questions.
+- [Startups](https://uiround.com/interview-questions/startup-frontend): Startup frontend interview questions: build complete features fast with React and Next.js, data fetching, forms, performance and product thinking.
+- [TCS, Infosys, Wipro, Accenture and other service companies](https://uiround.com/interview-questions/service-company-frontend): Frontend developer interview questions for TCS, Infosys, Wipro, Accenture, Cognizant and other IT services companies: JavaScript, HTML, CSS, React and Angular.
+
+How each company runs its frontend interviews, round by round, from public interview reports:
+
+**FAANG and big tech:** [Google](https://uiround.com/companies/google) · [Meta](https://uiround.com/companies/meta) · [Amazon](https://uiround.com/companies/amazon) · [Microsoft](https://uiround.com/companies/microsoft) · [Apple](https://uiround.com/companies/apple) · [Netflix](https://uiround.com/companies/netflix) · [Uber](https://uiround.com/companies/uber) · [LinkedIn](https://uiround.com/companies/linkedin) · [Atlassian](https://uiround.com/companies/atlassian) · [Salesforce](https://uiround.com/companies/salesforce) · [Adobe](https://uiround.com/companies/adobe) · [Airbnb](https://uiround.com/companies/airbnb) · [Intuit](https://uiround.com/companies/intuit) · [Walmart Global Tech](https://uiround.com/companies/walmart)
+
+**Global scale-ups:** [Stripe](https://uiround.com/companies/stripe) · [Databricks](https://uiround.com/companies/databricks) · [Rippling](https://uiround.com/companies/rippling) · [Snowflake](https://uiround.com/companies/snowflake) · [Sprinklr](https://uiround.com/companies/sprinklr) · [ThoughtSpot](https://uiround.com/companies/thoughtspot)
+
+**Indian product companies and startups:** [Flipkart](https://uiround.com/companies/flipkart) · [Swiggy](https://uiround.com/companies/swiggy) · [Zomato](https://uiround.com/companies/zomato) · [Razorpay](https://uiround.com/companies/razorpay) · [PhonePe](https://uiround.com/companies/phonepe) · [CRED](https://uiround.com/companies/cred) · [Meesho](https://uiround.com/companies/meesho) · [Zepto](https://uiround.com/companies/zepto) · [Myntra](https://uiround.com/companies/myntra) · [Paytm](https://uiround.com/companies/paytm) · [Dream11](https://uiround.com/companies/dream11) · [Groww](https://uiround.com/companies/groww) · [MakeMyTrip](https://uiround.com/companies/makemytrip) · [Media.net](https://uiround.com/companies/media-net) · [Navi](https://uiround.com/companies/navi) · [Zeta](https://uiround.com/companies/zeta)
+
+**IT services and consulting:** [Accenture](https://uiround.com/companies/accenture) · [Capgemini](https://uiround.com/companies/capgemini) · [Cognizant](https://uiround.com/companies/cognizant) · [HCLTech](https://uiround.com/companies/hcltech) · [Infosys](https://uiround.com/companies/infosys) · [TCS](https://uiround.com/companies/tcs) · [Tech Mahindra](https://uiround.com/companies/tech-mahindra) · [Wipro](https://uiround.com/companies/wipro)
 
 ## What you can do on the site
 
@@ -136,51 +202,90 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 - [JavaScript DOM interview questions](https://uiround.com/interview-questions/dom)
 - [Senior frontend interview questions](https://uiround.com/interview-questions/senior-frontend)
 - [SDE-2 frontend interview questions](https://uiround.com/interview-questions/sde-2-frontend)
+- [SDE-1 frontend interview questions (0–2 years)](https://uiround.com/interview-questions/sde-1-frontend)
+- [Staff and principal frontend engineer interview questions](https://uiround.com/interview-questions/staff-frontend)
+- [Frontend intern interview questions for college students](https://uiround.com/interview-questions/frontend-internship)
+- [Frontend interview questions for TCS, Infosys, Wipro and Accenture](https://uiround.com/interview-questions/service-company-frontend)
+- [Startup frontend interview questions: build features end to end](https://uiround.com/interview-questions/startup-frontend)
 - [FAANG frontend interview questions](https://uiround.com/interview-questions/faang-frontend)
 - [Frontend interview questions for freshers](https://uiround.com/interview-questions/freshers)
+- [Machine coding round interview questions for frontend](https://uiround.com/interview-questions/machine-coding)
+- [State management interview questions: Redux, Zustand, TanStack Query](https://uiround.com/interview-questions/state-management)
+- [Redux interview questions and answers (Redux Toolkit)](https://uiround.com/interview-questions/redux)
+- [JavaScript interview questions for experienced developers (3–5+ years)](https://uiround.com/interview-questions/javascript-experienced)
+- [React interview questions for experienced developers (3–5+ years)](https://uiround.com/interview-questions/react-experienced)
+- [Scenario-based React interview questions](https://uiround.com/interview-questions/react-scenario-based)
+- [Next.js interview questions and answers](https://uiround.com/interview-questions/nextjs)
+- [HTML interview questions and answers](https://uiround.com/interview-questions/html)
+- [Frontend accessibility interview questions](https://uiround.com/interview-questions/accessibility)
+- [Frontend security interview questions and answers](https://uiround.com/interview-questions/web-security)
+- [Frontend testing interview questions: Jest and Testing Library](https://uiround.com/interview-questions/frontend-testing)
+- [HTTP and networking interview questions for frontend developers](https://uiround.com/interview-questions/web-networking)
+- [Frontend architecture and design patterns interview questions](https://uiround.com/interview-questions/frontend-architecture)
 
-## Company interview guides
+## Guides
 
-[Google](https://uiround.com/companies/google) · [Meta](https://uiround.com/companies/meta) · [Amazon](https://uiround.com/companies/amazon) · [Microsoft](https://uiround.com/companies/microsoft) · [Apple](https://uiround.com/companies/apple) · [Netflix](https://uiround.com/companies/netflix) · [Uber](https://uiround.com/companies/uber) · [LinkedIn](https://uiround.com/companies/linkedin) · [Atlassian](https://uiround.com/companies/atlassian) · [Salesforce](https://uiround.com/companies/salesforce) · [Adobe](https://uiround.com/companies/adobe) · [Airbnb](https://uiround.com/companies/airbnb) · [Intuit](https://uiround.com/companies/intuit) · [Walmart Global Tech](https://uiround.com/companies/walmart) · [Stripe](https://uiround.com/companies/stripe) · [Databricks](https://uiround.com/companies/databricks) · [Rippling](https://uiround.com/companies/rippling) · [Snowflake](https://uiround.com/companies/snowflake) · [Flipkart](https://uiround.com/companies/flipkart) · [Swiggy](https://uiround.com/companies/swiggy) · [Zomato](https://uiround.com/companies/zomato) · [Razorpay](https://uiround.com/companies/razorpay) · [PhonePe](https://uiround.com/companies/phonepe) · [CRED](https://uiround.com/companies/cred) · [Meesho](https://uiround.com/companies/meesho) · [Zepto](https://uiround.com/companies/zepto) · [Myntra](https://uiround.com/companies/myntra) · [Paytm](https://uiround.com/companies/paytm)
-
-## Articles
+**Frontend system design course**
 
 - [Accessibility in frontend system design: focus, live regions, keyboard](https://uiround.com/guides/accessibility-in-system-design)
-- [Automatic batching in React 18 and 19: what changed and flushSync](https://uiround.com/guides/automatic-batching)
-- [Behavioral interviews for frontend engineers: STAR, a story bank and level signals](https://uiround.com/guides/behavioral-interview-frontend)
-- [Browser caching explained: Cache-Control, ETags and CDNs](https://uiround.com/guides/browser-caching)
 - [Client-server API design for frontends: REST, GraphQL, pagination](https://uiround.com/guides/client-server-api-design)
 - [Common frontend system design interview mistakes and how to fix them](https://uiround.com/guides/system-design-common-mistakes)
 - [Component API design: composition, controlled state, accessibility](https://uiround.com/guides/component-api-design)
-- [Concurrent rendering in React: interruptible renders explained](https://uiround.com/guides/concurrent-rendering)
-- [Debounce vs throttle in JavaScript: differences and code](https://uiround.com/guides/debounce-vs-throttle)
 - [Design a chat app like WhatsApp Web: frontend system design](https://uiround.com/guides/design-a-chat-app)
 - [Design a news feed: a frontend system design case study](https://uiround.com/guides/design-a-news-feed)
 - [Frontend data fetching and caching: SWR, invalidation, optimistic UI](https://uiround.com/guides/data-fetching-and-caching)
 - [Frontend security design: XSS, CSP, tokens, CSRF and clickjacking](https://uiround.com/guides/frontend-security-design)
 - [Frontend state management: server cache, URL, local and global state](https://uiround.com/guides/frontend-state-management)
+- [Frontend system design cheat sheet: a checklist for the interview](https://uiround.com/guides/frontend-system-design-cheat-sheet)
 - [Frontend system design interview: a step-by-step framework](https://uiround.com/guides/frontend-system-design-interview)
+- [Frontend system design vs backend system design: what is different](https://uiround.com/guides/frontend-vs-backend-system-design)
 - [Gathering requirements in a frontend system design interview](https://uiround.com/guides/gathering-requirements)
 - [How a frontend system design round is scored: signals and levels](https://uiround.com/guides/system-design-evaluation-criteria)
-- [How React rendering works: re-renders, memo, context and keys](https://uiround.com/guides/react-rendering)
 - [Internationalisation in frontend system design: bundles, ICU, RTL](https://uiround.com/guides/internationalization-in-system-design)
-- [JavaScript event loop explained: tasks, microtasks and rendering](https://uiround.com/guides/javascript-event-loop)
 - [Micro-frontends architecture: module federation, monorepos and ownership](https://uiround.com/guides/micro-frontends-architecture)
 - [Observability and testing in frontend system design: RUM, errors, rollouts](https://uiround.com/guides/observability-and-testing-in-system-design)
 - [Offline-first sync: service workers, IndexedDB and conflict resolution](https://uiround.com/guides/offline-first-sync)
 - [Performance in frontend system design: budgets, Web Vitals, lists](https://uiround.com/guides/performance-in-system-design)
-- [Promise concurrency: all vs allSettled vs race vs any](https://uiround.com/guides/promise-concurrency)
+- [Real-time updates on the web: polling, long polling, SSE, WebSockets](https://uiround.com/guides/real-time-updates)
+- [Rendering strategies: CSR vs SSR vs SSG vs ISR and streaming](https://uiround.com/guides/rendering-strategies)
+- [System design frameworks compared: four steps, RESHADED, PEDALS, RADIO and ROUND](https://uiround.com/guides/system-design-frameworks)
+- [The RADIO framework for frontend system design interviews](https://uiround.com/guides/radio-framework)
+- [The ROUND framework: a frontend-first way to answer system design](https://uiround.com/guides/round-framework)
+
+**React deep dives**
+
+- [Automatic batching in React 18 and 19: what changed and flushSync](https://uiround.com/guides/automatic-batching)
+- [Concurrent rendering in React: interruptible renders explained](https://uiround.com/guides/concurrent-rendering)
+- [How React rendering works: re-renders, memo, context and keys](https://uiround.com/guides/react-rendering)
 - [React 19 Actions: useActionState, useOptimistic and form actions](https://uiround.com/guides/react-19-actions)
 - [React Server Components vs SSR: the client boundary explained](https://uiround.com/guides/react-server-components)
 - [React Suspense, streaming SSR and selective hydration explained](https://uiround.com/guides/suspense-streaming-ssr)
-- [Real-time updates on the web: polling, long polling, SSE, WebSockets](https://uiround.com/guides/real-time-updates)
-- [Rendering strategies: CSR vs SSR vs SSG vs ISR and streaming](https://uiround.com/guides/rendering-strategies)
 - [Tearing in concurrent React and how useSyncExternalStore fixes it](https://uiround.com/guides/usesyncexternalstore-tearing)
-- [The frontend engineer resume: impact bullets, structure and what to cut](https://uiround.com/guides/frontend-engineer-resume)
-- [The RADIO framework for frontend system design interviews](https://uiround.com/guides/radio-framework)
 - [useDeferredValue in React: vs debounce, initial value and memo](https://uiround.com/guides/usedeferredvalue)
 - [useTransition and startTransition in React 19: a practical guide](https://uiround.com/guides/usetransition-starttransition)
 - [Why React effects run twice: StrictMode, cleanup and effect bugs](https://uiround.com/guides/react-18-strict-mode-effects)
+
+**JavaScript deep dives**
+
+- [Debounce vs throttle in JavaScript: differences and code](https://uiround.com/guides/debounce-vs-throttle)
+- [JavaScript event loop explained: tasks, microtasks and rendering](https://uiround.com/guides/javascript-event-loop)
+- [Promise concurrency: all vs allSettled vs race vs any](https://uiround.com/guides/promise-concurrency)
+
+**Browser and performance**
+
+- [Browser caching explained: Cache-Control, ETags and CDNs](https://uiround.com/guides/browser-caching)
+
+**Careers and the interview itself**
+
+- [Behavioral interviews for frontend engineers: STAR, a story bank and level signals](https://uiround.com/guides/behavioral-interview-frontend)
+- [Campus placement preparation for frontend and web developer roles: a semester-by-semester plan](https://uiround.com/guides/frontend-campus-placement-preparation)
+- [Frontend internship interviews: what is asked, a 4 to 8 week plan and projects that count](https://uiround.com/guides/frontend-internship-interview)
+- [How to switch from a service company to a product company as a frontend engineer](https://uiround.com/guides/switch-from-service-company-to-product-company-frontend)
+- [SDE-1 vs SDE-2 vs senior vs staff frontend engineer: what each level is expected to show](https://uiround.com/guides/sde-1-vs-sde-2-vs-senior-vs-staff-frontend)
+- [The frontend engineer resume: impact bullets, structure and what to cut](https://uiround.com/guides/frontend-engineer-resume)
+- [The staff frontend engineer interview: architecture, influence and sample questions](https://uiround.com/guides/staff-frontend-engineer-interview)
+- [What is a machine coding round? Format, questions and how to prepare](https://uiround.com/guides/machine-coding-round)
+- [Your first 90 days as a frontend developer: onboarding, first PRs and a strong first review](https://uiround.com/guides/first-90-days-as-a-frontend-developer)
 
 ## Found a bug? Want something added?
 

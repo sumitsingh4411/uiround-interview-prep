@@ -3,7 +3,7 @@
 **Track:** React application patterns  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** CRED, Adobe
+**Reported at:** CRED, Adobe, MakeMyTrip, Zeta
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller)**: free, no account needed.
 

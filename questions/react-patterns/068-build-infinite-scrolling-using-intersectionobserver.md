@@ -3,7 +3,7 @@
 **Track:** React application patterns  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Rippling, LinkedIn, Google
+**Reported at:** Rippling, LinkedIn, Google, ThoughtSpot, Blinkit
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-infinite-scrolling-using-intersectionobserver)**: free, no account needed.
 
