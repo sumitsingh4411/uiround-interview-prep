@@ -10,7 +10,6 @@ Read each question and a short answer here, then solve it on **[UIRound](https:/
 
 [![Practise with tests on uiround.com](https://img.shields.io/badge/uiround.com-practise%20with%20tests-0071e3?style=for-the-badge)](https://uiround.com)
 [![Free questions in every track](https://img.shields.io/badge/free-questions%20in%20every%20track-34c759?style=for-the-badge)](https://uiround.com/questions?access=free)
-[![GitHub stars](https://img.shields.io/github/stars/sumitsingh4411/uiround-interview-prep?style=for-the-badge&logo=github&color=f5b301)](https://github.com/sumitsingh4411/uiround-interview-prep/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/sumitsingh4411/uiround-interview-prep?style=for-the-badge&color=a855f7)](https://github.com/sumitsingh4411/uiround-interview-prep/commits/main)
 
 [**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans)
