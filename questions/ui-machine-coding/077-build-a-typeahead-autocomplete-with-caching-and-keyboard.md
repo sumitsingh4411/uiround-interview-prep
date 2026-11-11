@@ -3,7 +3,6 @@
 **Track:** UI machine coding  
 **Level:** Medium  
 **Time:** about 45 minutes  
-**Reported at:** Swiggy, Airbnb, Intuit, Microsoft, MakeMyTrip, ThoughtSpot
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-a-typeahead-autocomplete-with-caching-and-keyboard)**: free, no account needed.
 

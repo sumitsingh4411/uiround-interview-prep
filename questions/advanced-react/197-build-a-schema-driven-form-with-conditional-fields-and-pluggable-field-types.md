@@ -3,7 +3,6 @@
 **Track:** Advanced React & rendering  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Rippling, Zepto, ThoughtSpot
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-a-schema-driven-form-with-conditional-fields-and-pluggable-field-types)**: free, no account needed.
 

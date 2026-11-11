@@ -3,7 +3,6 @@
 **Track:** Algorithms & data structures  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Cleartrip, Myntra, Media.net
 
 **[Solve it in the browser with tests](https://uiround.com/questions/compute-trapped-rain-water-with-two-pointers)**: free, no account needed.
 

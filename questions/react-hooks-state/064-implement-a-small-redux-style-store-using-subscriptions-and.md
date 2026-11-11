@@ -3,7 +3,6 @@
 **Track:** React hooks & state  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Rippling, Flipkart
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-small-redux-style-store-using-subscriptions-and)**: free, no account needed.
 

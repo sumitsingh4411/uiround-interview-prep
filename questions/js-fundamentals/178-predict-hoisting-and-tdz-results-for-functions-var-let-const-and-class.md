@@ -3,7 +3,6 @@
 **Track:** JavaScript fundamentals  
 **Level:** Easy  
 **Time:** about 15 minutes  
-**Reported at:** Flipkart, Intuit, Meesho, Zepto
 
 **[Solve it in the browser with tests](https://uiround.com/questions/predict-hoisting-and-tdz-results-for-functions-var-let-const-and-class)**: free, no account needed.
 

@@ -3,7 +3,6 @@
 **Track:** Frontend system design  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Swiggy, Zeta
 
 **[Design it on the whiteboard](https://uiround.com/questions/design-a-news-feed-with-infinite-scroll)** and check yourself against the rubric: free, no account needed.
 

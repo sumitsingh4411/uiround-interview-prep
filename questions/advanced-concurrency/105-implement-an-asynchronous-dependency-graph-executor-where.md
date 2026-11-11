@@ -3,7 +3,6 @@
 **Track:** Advanced async concurrency  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Uber, Google
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-an-asynchronous-dependency-graph-executor-where)**: free, no account needed.
 

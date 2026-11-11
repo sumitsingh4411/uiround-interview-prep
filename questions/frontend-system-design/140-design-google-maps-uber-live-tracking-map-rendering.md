@@ -3,7 +3,6 @@
 **Track:** Frontend system design  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Uber, Salesforce
 
 **[Design it on the whiteboard](https://uiround.com/questions/design-google-maps-uber-live-tracking-map-rendering)** and check yourself against the rubric: free, no account needed.
 

@@ -3,7 +3,6 @@
 **Track:** Strings, objects & algorithms  
 **Level:** Easy  
 **Time:** about 30 minutes  
-**Reported at:** Rippling, Flipkart, Meesho, Walmart Global Tech, Dream11
 
 **[Solve it in the browser with tests](https://uiround.com/questions/turn-flat-id-parentid-records-into-a-tree-and-an-adjacency-list-and-find-the-nearest-matching-folder-with-bfs)**: free, no account needed.
 

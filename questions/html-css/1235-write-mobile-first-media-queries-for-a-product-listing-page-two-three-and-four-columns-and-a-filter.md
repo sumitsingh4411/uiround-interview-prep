@@ -3,7 +3,6 @@
 **Track:** HTML & CSS  
 **Level:** Easy  
 **Time:** about 25 minutes  
-**Reported at:** Myntra
 
 **[Solve it in the browser with tests](https://uiround.com/questions/write-mobile-first-media-queries-for-a-product-listing-page-two-three-and-four-columns-and-a-filter)**: free, no account needed.
 

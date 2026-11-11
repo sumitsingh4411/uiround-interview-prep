@@ -3,7 +3,6 @@
 **Track:** Concurrency & scheduling  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Rippling, Uber, Flipkart, Zeta
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-maplimit-throttlepromises-with-maximum-n)**: free, no account needed.
 

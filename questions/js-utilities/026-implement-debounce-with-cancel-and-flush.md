@@ -3,7 +3,6 @@
 **Track:** JavaScript utilities & FP  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Tata 1mg, Rippling, Flipkart, Swiggy, Adobe, Oracle
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-debounce-with-cancel-and-flush)**: free, no account needed.
 

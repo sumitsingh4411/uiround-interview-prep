@@ -3,7 +3,6 @@
 **Track:** Advanced machine coding & DSA  
 **Level:** Hard  
 **Time:** about 90 minutes  
-**Reported at:** Atlassian
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-a-trello-like-kanban-app-supporting-nested-cards-drag)**: free, no account needed.
 

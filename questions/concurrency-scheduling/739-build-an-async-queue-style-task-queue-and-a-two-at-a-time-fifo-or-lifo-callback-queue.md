@@ -3,7 +3,6 @@
 **Track:** Concurrency & scheduling  
 **Level:** Medium  
 **Time:** about 45 minutes  
-**Reported at:** Uber, Meta
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-an-async-queue-style-task-queue-and-a-two-at-a-time-fifo-or-lifo-callback-queue)**: free, no account needed.
 

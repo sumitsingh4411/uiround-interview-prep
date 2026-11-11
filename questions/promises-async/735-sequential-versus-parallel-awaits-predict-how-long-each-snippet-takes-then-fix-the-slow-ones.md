@@ -3,7 +3,6 @@
 **Track:** Promises & async  
 **Level:** Medium  
 **Time:** about 30 minutes  
-**Reported at:** Intuit, Swiggy, Walmart Global Tech
 
 **[Solve it in the browser with tests](https://uiround.com/questions/sequential-versus-parallel-awaits-predict-how-long-each-snippet-takes-then-fix-the-slow-ones)**: free, no account needed.
 

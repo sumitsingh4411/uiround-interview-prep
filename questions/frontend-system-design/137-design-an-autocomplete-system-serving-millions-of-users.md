@@ -3,7 +3,6 @@
 **Track:** Frontend system design  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** LinkedIn, Flipkart, Swiggy, Zepto
 
 **[Design it on the whiteboard](https://uiround.com/questions/design-an-autocomplete-system-serving-millions-of-users)** and check yourself against the rubric: free, no account needed.
 

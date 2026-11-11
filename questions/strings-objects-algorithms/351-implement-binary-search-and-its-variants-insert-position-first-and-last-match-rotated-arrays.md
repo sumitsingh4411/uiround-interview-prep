@@ -3,7 +3,6 @@
 **Track:** Strings, objects & algorithms  
 **Level:** Easy  
 **Time:** about 30 minutes  
-**Reported at:** Myntra, Flipkart, Media.net, Rippling
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-binary-search-and-its-variants-insert-position-first-and-last-match-rotated-arrays)**: free, no account needed.
 

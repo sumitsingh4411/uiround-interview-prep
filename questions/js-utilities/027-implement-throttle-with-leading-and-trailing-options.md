@@ -3,7 +3,6 @@
 **Track:** JavaScript utilities & FP  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Rippling, Razorpay, Adobe
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-throttle-with-leading-and-trailing-options)**: free, no account needed.
 

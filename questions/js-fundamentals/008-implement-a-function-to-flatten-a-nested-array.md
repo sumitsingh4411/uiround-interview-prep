@@ -3,7 +3,6 @@
 **Track:** JavaScript fundamentals  
 **Level:** Easy  
 **Time:** about 15 minutes  
-**Reported at:** Rippling, Salesforce, Flipkart, Swiggy, Meesho, Meta, MakeMyTrip, ThoughtSpot
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-function-to-flatten-a-nested-array)**: free, no account needed.
 

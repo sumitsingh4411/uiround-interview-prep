@@ -3,7 +3,6 @@
 **Track:** JavaScript fundamentals  
 **Level:** Easy  
 **Time:** about 15 minutes  
-**Reported at:** Rippling, Salesforce, Walmart Global Tech, Flipkart, Paytm, Zomato
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-function-prototype-bind-including-partial)**: free, no account needed.
 

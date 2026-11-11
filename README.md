@@ -1,24 +1,81 @@
-# Frontend interview questions and answers
+<div align="center">
 
-[![Website](https://img.shields.io/badge/practise%20with%20tests-uiround.com-0071e3)](https://uiround.com) [![GitHub stars](https://img.shields.io/github/stars/sumitsingh4411/uiround-interview-prep?style=social)](https://github.com/sumitsingh4411/uiround-interview-prep/stargazers)
+<a href="https://uiround.com"><img src="assets/logo.png" alt="UIRound logo" width="84" height="84"></a>
 
-Frontend interview questions and answers for **JavaScript, React, TypeScript, HTML and CSS, Next.js, Redux, machine coding and frontend system design**, from internships and freshers to SDE-1, SDE-2, senior and staff roles, at FAANG, startups and service companies such as TCS, Infosys and Wipro. Read the questions and short answers here, then solve them on [UIRound](https://uiround.com) in a browser editor with real tests, a step-by-step answer and the follow-up questions an interviewer asks next.
+# Frontend Interview Questions and Answers
 
-⭐ **Star this repo** to keep it handy and help other developers find it.
+**JavaScript · React · TypeScript · HTML & CSS · Machine coding · Frontend system design**
 
-Looking for a long list to read through? The open-source [Frontend Interview Questions handbook](https://github.com/sumitsingh4411/frontend-interview-questions) has 3,000+ questions with worked solutions.
+Read each question and a short answer here, then solve it on **[UIRound](https://uiround.com)** in a browser editor with real tests, a step-by-step answer and the follow-up questions interviewers ask next. From internships and freshers to SDE-1, SDE-2, senior and staff roles.
 
-<p align="center"><a href="https://uiround.com/questions/implement-debounce-with-cancel-and-flush"><img src="assets/editor.png" alt="A debounce question solved in the UIRound editor, with all 7 tests passing" width="900"></a></p>
+[![Practise with tests on uiround.com](https://img.shields.io/badge/uiround.com-practise%20with%20tests-0071e3?style=for-the-badge)](https://uiround.com)
+[![Free questions in every track](https://img.shields.io/badge/free-questions%20in%20every%20track-34c759?style=for-the-badge)](https://uiround.com/questions?access=free)
+[![Last commit](https://img.shields.io/github/last-commit/sumitsingh4411/uiround-interview-prep?style=for-the-badge&color=a855f7)](https://github.com/sumitsingh4411/uiround-interview-prep/commits/main)
+
+[**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans)
+
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://uiround.com/questions/implement-debounce-with-cancel-and-flush">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/editor-dark.png">
+      <img src="assets/editor-light.png" alt="The debounce interview question solved in the UIRound editor: all 7 tests pass" width="100%">
+    </picture>
+  </a>
+</p>
+
+## How it works
+
+1. **Pick a question.** Browse by topic, by experience level or by company, or start with the [free questions](#free-questions) below.
+2. **Write the code and run the tests.** JavaScript, TypeScript and React run in your browser, and hidden tests check your answer the way an interviewer would.
+3. **Read the answer, then the follow-ups.** A step-by-step solution, the complexity, the edge cases, and the questions an interviewer asks next.
+
+⭐ **Star this repo** to keep it handy and help other developers find it. Looking for a long list to read through? The open-source [Frontend Interview Questions handbook](https://github.com/sumitsingh4411/frontend-interview-questions) has 3,000+ questions with worked solutions.
 
 ## Contents
 
+- [How it works](#how-it-works)
+- [Most asked frontend interview questions](#most-asked-frontend-interview-questions)
 - [Interview questions and answers by topic](#interview-questions-and-answers-by-topic)
 - [Prepare by experience](#prepare-by-experience)
 - [Prepare by company](#prepare-by-company)
 - [Free coding questions with tests](#free-questions)
 - [Guides and the system design course](#guides)
 - [What you can do on the site](#what-you-can-do-on-the-site)
+- [Frontend interview FAQ](#frontend-interview-faq)
 - [Report a bug or ask for a feature](#found-a-bug-want-something-added)
+
+## Most asked frontend interview questions
+
+The questions that come up most often in public frontend interview reports, across the most companies. Each one opens with the problem, starter code and tests.
+
+| # | Question | Level | Track | |
+| --: | --- | --- | --- | --- |
+| 1 | [Implement a function to flatten a nested array](https://uiround.com/questions/implement-a-function-to-flatten-a-nested-array) | Easy | JavaScript fundamentals | Free |
+| 2 | [Implement Promise.all() from scratch](https://uiround.com/questions/implement-promise-all-from-scratch) | Medium | Promises & async | Free |
+| 3 | [Build a todo list app in React with editing, filters and persistence](https://uiround.com/questions/build-a-todo-list-app-in-react-with-editing-filters-and-persistence) | Medium | UI machine coding | Free |
+| 4 | [Implement `Function.prototype.bind()`, including partial arguments](https://uiround.com/questions/implement-function-prototype-bind-including-partial) | Easy | JavaScript fundamentals | Free |
+| 5 | [Implement debounce() with `cancel()` and `flush()`](https://uiround.com/questions/implement-debounce-with-cancel-and-flush) | Medium | JavaScript utilities & FP | Free |
+| 6 | [Implement `curry()` supporting partial application](https://uiround.com/questions/implement-curry-supporting-partial-application) | Medium | JavaScript utilities & FP | Free |
+| 7 | [Build a typeahead/autocomplete with caching and keyboard support](https://uiround.com/questions/build-a-typeahead-autocomplete-with-caching-and-keyboard) | Medium | UI machine coding | Free |
+| 8 | [Implement `memoize()` with custom cache keys](https://uiround.com/questions/implement-memoize-with-custom-cache-keys) | Medium | JavaScript utilities & FP | Free |
+| 9 | [Implement an LRU cache](https://uiround.com/questions/implement-an-lru-cache) | Medium | JavaScript utilities & FP | Pro |
+| 10 | [Build infinite scrolling using `IntersectionObserver`](https://uiround.com/questions/build-infinite-scrolling-using-intersectionobserver) | Medium | React application patterns | Free |
+| 11 | [Turn flat `{ id, parentId }` records into a tree and an adjacency list, and find the nearest matching folder with BFS](https://uiround.com/questions/turn-flat-id-parentid-records-into-a-tree-and-an-adjacency-list-and-find-the-nearest-matching-folder-with-bfs) | Easy | Strings, objects & algorithms | Free |
+| 12 | [Implement an EventEmitter with `on`, `off`, `emit`, and `once`](https://uiround.com/questions/implement-an-eventemitter-with-on-off-emit-and-once) | Medium | JavaScript utilities & FP | Pro |
+| 13 | [Implement mapLimit() / throttlePromises() with maximum N concurrent tasks](https://uiround.com/questions/implement-maplimit-throttlepromises-with-maximum-n) | Medium | Concurrency & scheduling | Free |
+| 14 | [Build search-as-you-type with debounce and `AbortController`](https://uiround.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller) | Medium | React application patterns | Free |
+| 15 | [Build a nested comments component with threaded replies](https://uiround.com/questions/build-a-nested-comments-component-with-threaded-replies) | Medium | UI machine coding | Free |
+| 16 | [Design WhatsApp Web: real-time messaging, ordering, offline state and reconciliation](https://uiround.com/questions/design-whatsapp-web-real-time-messaging-ordering-offline) | Hard | Frontend system design | Free |
+| 17 | [Design an autocomplete system serving millions of users with caching and request cancellation](https://uiround.com/questions/design-an-autocomplete-system-serving-millions-of-users) | Hard | Frontend system design | Free |
+| 18 | [Predict hoisting and TDZ results for functions, `var`, `let`, `const` and `class`](https://uiround.com/questions/predict-hoisting-and-tdz-results-for-functions-var-let-const-and-class) | Easy | JavaScript fundamentals | Free |
+| 19 | [Build an accessible carousel with autoplay that pauses on hover and focus, swipe and reduced motion](https://uiround.com/questions/build-an-accessible-carousel-with-autoplay-that-pauses-on-hover-and-focus-swipe-and-reduced-motion) | Medium | UI machine coding | Pro |
+| 20 | [Implement binary search and its variants: insert position, first and last match, rotated arrays](https://uiround.com/questions/implement-binary-search-and-its-variants-insert-position-first-and-last-match-rotated-arrays) | Easy | Strings, objects & algorithms | Free |
+
+See the full ranking on the site: [most asked first](https://uiround.com/questions?sort=most-asked).
 
 ## Interview questions and answers by topic
 
@@ -74,16 +131,74 @@ How each company runs its frontend interviews, round by round, from public inter
 
 ## What you can do on the site
 
-- **Solve questions in a real editor.** JavaScript, React and TypeScript run in the browser with tests, so you know when your answer works. Try the [JavaScript editor](https://uiround.com/javascript-editor) or the [React editor](https://uiround.com/react-editor).
-- **Practise UI questions in React, Vue, Angular or Svelte.** Machine coding questions come with a version for each framework: [Vue](https://uiround.com/interview-questions/vue), [Angular](https://uiround.com/interview-questions/angular), [Svelte](https://uiround.com/interview-questions/svelte).
-- **Solve TypeScript type challenges.** Type-level questions are checked by the TypeScript compiler as you type: [TypeScript questions](https://uiround.com/interview-questions/typescript).
-- **Learn frontend system design.** A [free course](https://uiround.com/system-design) from beginner to advanced, with case studies and a whiteboard to sketch your design.
-- **Take a mock interview.** A [timed round](https://uiround.com/mock-interview) in JavaScript, React or system design, with follow-up questions and a score out of 100.
-- **Quiz yourself.** A [free multiple-choice quiz](https://uiround.com/quiz) on JavaScript, React, TypeScript, CSS, browser and performance topics, with every answer explained, plus flashcards with spaced repetition.
-- **Follow a plan.** [Study plans](https://uiround.com/study-plans) for 1 week, 1 month and 3 months, a [four-week roadmap](https://uiround.com/frontend-interview-roadmap), and a [must-solve list](https://uiround.com/must-solve). Finish a plan and get a certificate anyone can verify.
-- **Prepare for a company.** [How companies run their frontend interviews](https://uiround.com/companies), from Google and Meta to Flipkart, Swiggy and Razorpay.
-- **Keep your progress.** Mark questions solved, bookmark them, make your own lists, and pick up on any device.
-- **Export for offline revision.** PDF, Word, Markdown or Anki.
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>⚡ Solve in a real editor</h3>
+<p>JavaScript, React and TypeScript run in the browser, and hidden tests check your answer.</p>
+<p><a href="https://uiround.com/javascript-editor">JavaScript editor</a> · <a href="https://uiround.com/react-editor">React editor</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🧩 React, Vue, Angular or Svelte</h3>
+<p>Machine coding questions come with a version for each framework.</p>
+<p><a href="https://uiround.com/interview-questions/vue">Vue</a> · <a href="https://uiround.com/interview-questions/angular">Angular</a> · <a href="https://uiround.com/interview-questions/svelte">Svelte</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🔷 TypeScript type challenges</h3>
+<p>Type-level questions are checked by the TypeScript compiler as you type.</p>
+<p><a href="https://uiround.com/interview-questions/typescript">TypeScript questions</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>🏗️ Frontend system design</h3>
+<p>A free course from beginner to advanced, with case studies and a whiteboard.</p>
+<p><a href="https://uiround.com/system-design">Start the course</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>⏱️ Mock interviews</h3>
+<p>A timed round in JavaScript, React or system design, scored out of 100.</p>
+<p><a href="https://uiround.com/mock-interview">Take a mock interview</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>✅ Quiz and flashcards</h3>
+<p>Multiple-choice questions on every frontend topic, each answer explained.</p>
+<p><a href="https://uiround.com/quiz">Quiz yourself</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>📅 Interview planner</h3>
+<p>Tell it the company, the date and your hours a day; get a day-by-day plan.</p>
+<p><a href="https://uiround.com/interview-planner">Make a plan</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🗺️ Study plans and roadmaps</h3>
+<p>1 week, 1 month or 3 months, a four-week roadmap and a must-solve list. Finish one for a certificate.</p>
+<p><a href="https://uiround.com/study-plans">Study plans</a> · <a href="https://uiround.com/frontend-interview-roadmap">Roadmap</a> · <a href="https://uiround.com/must-solve">Must-solve</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🏢 Interview experiences</h3>
+<p>Rounds and questions shared by candidates, and how companies run their frontend interviews.</p>
+<p><a href="https://uiround.com/interview-experiences">Experiences</a> · <a href="https://uiround.com/companies">Companies</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>🔁 Spaced revision</h3>
+<p>Solved questions come back for revision before you forget them.</p>
+</td>
+<td width="33%" valign="top">
+<h3>🏆 Leaderboard</h3>
+<p>Every accepted solution earns points: 10 for easy, 20 for medium, 40 for hard.</p>
+<p><a href="https://uiround.com/leaderboard">See the leaderboard</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>📈 Progress on every device</h3>
+<p>Mark questions solved, bookmark them and make your own lists.</p>
+</td>
+</tr>
+</table>
 
 | [Question bank](https://uiround.com/questions) | [System design course](https://uiround.com/system-design) | [Quiz and flashcards](https://uiround.com/quiz) |
 | --- | --- | --- |
@@ -225,6 +340,9 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 
 ## Questions by topic
 
+<details>
+<summary><b>Show every topic page</b></summary>
+
 - [JavaScript interview questions and answers](https://uiround.com/interview-questions/javascript)
 - [React interview questions and answers](https://uiround.com/interview-questions/react)
 - [React hooks interview questions and answers](https://uiround.com/interview-questions/react-hooks)
@@ -263,7 +381,12 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 - [HTTP and networking interview questions for frontend developers](https://uiround.com/interview-questions/web-networking)
 - [Frontend architecture and design patterns interview questions](https://uiround.com/interview-questions/frontend-architecture)
 
+</details>
+
 ## Guides
+
+<details>
+<summary><b>Show every guide: system design, React, JavaScript, browser and careers</b></summary>
 
 **Frontend system design course**
 
@@ -327,6 +450,52 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 - [What is a machine coding round? Format, questions and how to prepare](https://uiround.com/guides/machine-coding-round)
 - [Your first 90 days as a frontend developer: onboarding, first PRs and a strong first review](https://uiround.com/guides/first-90-days-as-a-frontend-developer)
 
+</details>
+
+## Frontend interview FAQ
+
+<details>
+<summary><b>What are the most asked frontend interview questions?</b></summary>
+
+Rebuilding everyday JavaScript tools comes first: flatten an array, `Promise.all`, `debounce`, `throttle`, `curry`, `bind` and `memoize`. Close behind are UI builds such as a todo app, a typeahead with keyboard support and infinite scrolling, and data-structure tasks such as an LRU cache. See the [most asked list](#most-asked-frontend-interview-questions) above.
+
+</details>
+
+<details>
+<summary><b>How should I prepare for a frontend interview?</b></summary>
+
+Most loops have four kinds of round: JavaScript fundamentals and utilities, UI machine coding, frontend system design, and a behavioral round. Practise each by writing code against tests, not only by reading answers. Pick a [study plan](https://uiround.com/study-plans) for the time you have, or let the [interview planner](https://uiround.com/interview-planner) build one from your interview date.
+
+</details>
+
+<details>
+<summary><b>What is a machine coding round?</b></summary>
+
+You build a small, working UI feature in 60 to 90 minutes: a todo app, a modal, a carousel, a data table. Interviewers look for code that runs, a clear component structure, accessibility and keyboard support, and how you handle edge cases. Read [what a machine coding round is and how to prepare](https://uiround.com/guides/machine-coding-round).
+
+</details>
+
+<details>
+<summary><b>What is asked in a frontend system design interview?</b></summary>
+
+You design the frontend of a product such as a news feed, a chat app or an autocomplete: the requirements, the component architecture, the data model and state, the API between client and server, and performance, accessibility and failure handling. A framework such as [RADIO](https://uiround.com/guides/radio-framework) gives you a running order. The [free course](https://uiround.com/system-design) covers it end to end.
+
+</details>
+
+<details>
+<summary><b>Which JavaScript topics come up most?</b></summary>
+
+Closures, `this`, the event loop and microtasks, promises and async/await, prototypes, hoisting and the temporal dead zone, and equality. Expect to explain each one and then use it in code. Start with the [JavaScript answers](answers/javascript.md).
+
+</details>
+
+<details>
+<summary><b>Are the questions free?</b></summary>
+
+Every track has free questions with the full answer and tests, and the problem statement of every question is free to read. Pro unlocks the rest with a one-time payment. See [Free and Pro](#free-and-pro).
+
+</details>
+
 ## Found a bug? Want something added?
 
 Open an issue. Pick the form that fits and it will ask for what we need:
@@ -344,6 +513,15 @@ Were you asked a frontend question that isn't here, or did you just finish an in
 
 ## Free and Pro
 
-Free: the questions above with full answers, the problem statement of every question, the system design course, the quiz and flashcards, the roadmap, the company guides, the articles and the online editors. Pro unlocks every answer, test and export with a one-time payment; nothing renews. See [pricing](https://uiround.com/pricing).
+**Free:** the questions above with full answers, the problem statement of every question, the system design course, the quiz and flashcards, the roadmaps and study plans, the company guides, the articles and the online editors.
 
-If this helped you, a star helps other people find it.
+**Pro** unlocks every answer and its tests, and shows which companies asked each question. Pay once for 7 days, 30 days or lifetime: nothing renews. Students who sign in with a college email (ending in .ac.in or .edu) get 10% off the 7-day and 30-day passes. See [pricing](https://uiround.com/pricing).
+
+## Share it
+
+If this helped you, a star helps other people find it, and so does sharing it with a friend who is preparing.
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x)](https://x.com/intent/post?text=Frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests&url=https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
+[![Share on WhatsApp](https://img.shields.io/badge/share%20on-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/?text=Frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests%3A%20https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
+

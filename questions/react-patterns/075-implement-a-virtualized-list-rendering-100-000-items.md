@@ -3,7 +3,6 @@
 **Track:** React application patterns  
 **Level:** Medium  
 **Time:** about 45 minutes  
-**Reported at:** Zomato, Walmart Global Tech, Uber
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-virtualized-list-rendering-100-000-items)**: free, no account needed.
 

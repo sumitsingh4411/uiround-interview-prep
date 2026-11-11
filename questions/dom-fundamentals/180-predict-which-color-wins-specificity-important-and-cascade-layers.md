@@ -3,7 +3,6 @@
 **Track:** Browser & DOM fundamentals  
 **Level:** Easy  
 **Time:** about 20 minutes  
-**Reported at:** Flipkart
 
 **[Solve it in the browser with tests](https://uiround.com/questions/predict-which-color-wins-specificity-important-and-cascade-layers)**: free, no account needed.
 

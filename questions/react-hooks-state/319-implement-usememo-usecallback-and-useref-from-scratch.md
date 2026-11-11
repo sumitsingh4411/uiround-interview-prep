@@ -3,7 +3,6 @@
 **Track:** React hooks & state  
 **Level:** Medium  
 **Time:** about 25 minutes  
-**Reported at:** Walmart Global Tech, ThoughtSpot
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-usememo-usecallback-and-useref-from-scratch)**: free, no account needed.
 
