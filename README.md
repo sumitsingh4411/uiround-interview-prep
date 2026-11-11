@@ -515,7 +515,7 @@ Were you asked a frontend question that isn't here, or did you just finish an in
 
 **Free:** the questions above with full answers, the problem statement of every question, the system design course, the quiz and flashcards, the roadmaps and study plans, the company guides, the articles and the online editors.
 
-**Pro** unlocks every answer and its tests, and shows which companies asked each question. Pay once for 7 days, 30 days or lifetime: nothing renews. Students who sign in with a college email (ending in .ac.in or .edu) get 10% off the 7-day and 30-day passes. See [pricing](https://uiround.com/pricing).
+**Pro** unlocks every answer and its tests, and shows which companies asked each question. Pay once for 7 days, 30 days, 1 year or lifetime: nothing renews. Students who sign in with a college email (ending in .ac.in or .edu) get 10% off the 7-day, 30-day and 1-year passes. See [pricing](https://uiround.com/pricing).
 
 ## Share it
 
