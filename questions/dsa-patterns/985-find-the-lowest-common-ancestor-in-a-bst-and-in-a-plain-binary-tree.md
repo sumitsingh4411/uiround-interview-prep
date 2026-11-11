@@ -3,7 +3,6 @@
 **Track:** Algorithms & data structures  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Blinkit, Navi, Rippling
 
 **[Solve it in the browser with tests](https://uiround.com/questions/find-the-lowest-common-ancestor-in-a-bst-and-in-a-plain-binary-tree)**: free, no account needed.
 

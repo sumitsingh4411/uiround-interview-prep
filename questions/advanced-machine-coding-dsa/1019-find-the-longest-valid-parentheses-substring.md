@@ -3,7 +3,6 @@
 **Track:** Advanced machine coding & DSA  
 **Level:** Hard  
 **Time:** about 50 minutes  
-**Reported at:** Sprinklr, Rippling
 
 **[Solve it in the browser with tests](https://uiround.com/questions/find-the-longest-valid-parentheses-substring)**: free, no account needed.
 

@@ -3,7 +3,6 @@
 **Track:** Browser, network & performance  
 **Level:** Medium  
 **Time:** about 45 minutes  
-**Reported at:** Atlassian, Google
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-an-analytics-sdk-with-event-batching-and)**: free, no account needed.
 

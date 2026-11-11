@@ -3,7 +3,6 @@
 **Track:** Advanced JS, browser & architecture  
 **Level:** Hard  
 **Time:** about 75 minutes  
-**Reported at:** Amazon
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-simplified-html-parser-and-dom-tree-builder)**: free, no account needed.
 

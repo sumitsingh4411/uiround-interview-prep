@@ -3,7 +3,6 @@
 **Track:** Browser & DOM fundamentals  
 **Level:** Easy  
 **Time:** about 20 minutes  
-**Reported at:** Flipkart, CRED
 
 **[Solve it in the browser with tests](https://uiround.com/questions/put-the-steps-from-typing-a-url-to-first-paint-in-order-and-mark-what-blocks-rendering)**: free, no account needed.
 

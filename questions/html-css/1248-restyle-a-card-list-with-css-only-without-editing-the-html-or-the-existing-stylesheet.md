@@ -3,7 +3,6 @@
 **Track:** HTML & CSS  
 **Level:** Easy  
 **Time:** about 30 minutes  
-**Reported at:** Swiggy
 
 **[Solve it in the browser with tests](https://uiround.com/questions/restyle-a-card-list-with-css-only-without-editing-the-html-or-the-existing-stylesheet)**: free, no account needed.
 

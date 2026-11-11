@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  {% seo %}
+  <link rel="icon" type="image/png" href="{{ '/assets/logo.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/logo.png' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Frontend interview questions, home">
+        <img src="{{ '/assets/logo.png' | relative_url }}" alt="" width="32" height="32">
+        <span>UI<span class="brand-accent">Round</span></span>
+      </a>
+      <nav class="top-nav" aria-label="UIRound">
+        <a href="https://uiround.com/questions">Questions</a>
+        <a href="https://uiround.com/system-design">System design</a>
+        <a href="https://uiround.com/quiz">Quiz</a>
+        <a href="https://github.com/sumitsingh4411/uiround-interview-prep">GitHub</a>
+      </nav>
+      <a class="top-cta" href="https://uiround.com">Practise with tests</a>
+    </div>
+  </header>
+
+  <main class="page">
+    <article class="markdown-body">
+      {{ content }}
+    </article>
+
+    <aside class="cta-card" aria-labelledby="cta-title">
+      <h2 id="cta-title">Solve these questions with real tests</h2>
+      <p>Write the code in a browser editor, run hidden tests, then read the step-by-step answer and the follow-ups an interviewer asks next.</p>
+      <a class="cta-button" href="https://uiround.com/questions">Open the question bank</a>
+    </aside>
+  </main>
+
+  <footer class="foot">
+    <p>
+      <a href="https://uiround.com">uiround.com</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://github.com/sumitsingh4411/uiround-interview-prep">Source on GitHub</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://github.com/sumitsingh4411/uiround-interview-prep/issues/new/choose">Report a mistake</a>
+    </p>
+  </footer>
+</body>
+</html>

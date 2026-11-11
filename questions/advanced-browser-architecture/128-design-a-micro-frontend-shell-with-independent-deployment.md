@@ -3,7 +3,6 @@
 **Track:** Advanced JS, browser & architecture  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Intuit, Razorpay
 
 **[Design it on the whiteboard](https://uiround.com/questions/design-a-micro-frontend-shell-with-independent-deployment)** and check yourself against the rubric: free, no account needed.
 

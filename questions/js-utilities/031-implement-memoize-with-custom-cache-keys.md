@@ -3,7 +3,6 @@
 **Track:** JavaScript utilities & FP  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Rippling, LinkedIn, Intuit, Meesho, Zeta
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-memoize-with-custom-cache-keys)**: free, no account needed.
 

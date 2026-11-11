@@ -3,7 +3,6 @@
 **Track:** Concurrency & scheduling  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Microsoft
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-concurrency-safe-async-cache-with-ttl)**: free, no account needed.
 

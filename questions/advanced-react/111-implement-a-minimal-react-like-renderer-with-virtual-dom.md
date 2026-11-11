@@ -3,7 +3,6 @@
 **Track:** Advanced React & rendering  
 **Level:** Hard  
 **Time:** about 75 minutes  
-**Reported at:** Intuit
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-minimal-react-like-renderer-with-virtual-dom)**: free, no account needed.
 

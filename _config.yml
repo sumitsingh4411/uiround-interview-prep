@@ -1,0 +1,66 @@
+# The GitHub Pages site for this repository: https://sumitsingh4411.github.io/uiround-interview-prep/
+# Built by .github/workflows/pages.yml from README.md and the Markdown files beside it.
+title: Frontend Interview Questions and Answers
+description: >-
+  Frontend interview questions and answers for JavaScript, React, TypeScript, HTML and CSS, machine coding
+  and frontend system design, with a link to solve each one with real tests on UIRound.
+url: https://sumitsingh4411.github.io
+baseurl: /uiround-interview-prep
+tagline: JavaScript, React and System Design
+lang: en
+author: Sumit Singh
+logo: /assets/logo.png
+image: /assets/social-preview.png
+social:
+  name: UIRound
+  links:
+    - https://uiround.com
+    - https://github.com/sumitsingh4411/uiround-interview-prep
+twitter:
+  card: summary_large_image
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/social-preview.png
+  # Questions and answers show Vue and Angular templates such as {{ count }}: print them as written.
+  - scope:
+      path: questions
+    values:
+      render_with_liquid: false
+      # Their canonical page is on uiround.com, so they stay out of this site's sitemap.
+      sitemap: false
+  - scope:
+      path: answers
+    values:
+      render_with_liquid: false
+
+exclude:
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - _site

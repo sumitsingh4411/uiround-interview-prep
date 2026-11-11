@@ -3,7 +3,6 @@
 **Track:** JavaScript utilities & FP  
 **Level:** Medium  
 **Time:** about 35 minutes  
-**Reported at:** Flipkart, Rippling, Uber, Intuit, Amazon, Zeta
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-curry-supporting-partial-application)**: free, no account needed.
 

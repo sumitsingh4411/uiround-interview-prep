@@ -3,7 +3,6 @@
 **Track:** UI machine coding  
 **Level:** Medium  
 **Time:** about 40 minutes  
-**Reported at:** Atlassian, Intuit, Flipkart, Zepto, Apple, DP World, Groww
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-a-todo-list-app-in-react-with-editing-filters-and-persistence)**: free, no account needed.
 

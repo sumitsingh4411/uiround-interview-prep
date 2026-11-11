@@ -3,7 +3,6 @@
 **Track:** Browser & DOM fundamentals  
 **Level:** Easy  
 **Time:** about 25 minutes  
-**Reported at:** Amazon, Adobe
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-an-accessible-star-rating-widget-with-keyboard-support-and-a-read-only-mode)**: free, no account needed.
 

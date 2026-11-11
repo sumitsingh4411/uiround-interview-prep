@@ -3,7 +3,6 @@
 **Track:** Frontend system design  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Microsoft, Salesforce, MakeMyTrip, ThoughtSpot
 
 **[Design it on the whiteboard](https://uiround.com/questions/design-whatsapp-web-real-time-messaging-ordering-offline)** and check yourself against the rubric: free, no account needed.
 

@@ -3,7 +3,6 @@
 **Track:** UI machine coding  
 **Level:** Medium  
 **Time:** about 40 minutes  
-**Reported at:** Uber, Intuit, Swiggy, Adobe
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-a-nested-comments-component-with-threaded-replies)**: free, no account needed.
 

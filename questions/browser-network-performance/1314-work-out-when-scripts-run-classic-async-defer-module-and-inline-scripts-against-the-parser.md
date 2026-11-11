@@ -3,7 +3,6 @@
 **Track:** Browser, network & performance  
 **Level:** Medium  
 **Time:** about 45 minutes  
-**Reported at:** Sprinklr, DP World
 
 **[Solve it in the browser with tests](https://uiround.com/questions/work-out-when-scripts-run-classic-async-defer-module-and-inline-scripts-against-the-parser)**: free, no account needed.
 

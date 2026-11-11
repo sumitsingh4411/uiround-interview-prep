@@ -3,7 +3,6 @@
 **Track:** UI machine coding  
 **Level:** Medium  
 **Time:** about 40 minutes  
-**Reported at:** Atlassian, Swiggy, Databricks
 
 **[Solve it in the browser with tests](https://uiround.com/questions/build-tic-tac-toe-on-an-n-by-n-board-with-m-in-a-row-to-win)**: free, no account needed.
 

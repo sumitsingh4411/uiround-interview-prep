@@ -3,7 +3,6 @@
 **Track:** Advanced async concurrency  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Microsoft, Uber, Google
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-a-promise-library-with-then-catch-chaining-and)**: free, no account needed.
 

@@ -3,7 +3,6 @@
 **Track:** Advanced machine coding & DSA  
 **Level:** Hard  
 **Time:** about 60 minutes  
-**Reported at:** Google, Uber
 
 **[Solve it in the browser with tests](https://uiround.com/questions/implement-an-autocomplete-search-engine-using-a-trie)**: free, no account needed.
 

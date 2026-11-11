@@ -3,7 +3,6 @@
 **Track:** React application patterns  
 **Level:** Medium  
 **Time:** about 25 minutes  
-**Reported at:** Salesforce, Walmart Global Tech
 
 **[Solve it in the browser with tests](https://uiround.com/questions/review-a-react-pull-request-find-the-bugs-security-holes-accessibility-and-performance-problems)**: free, no account needed.
 
