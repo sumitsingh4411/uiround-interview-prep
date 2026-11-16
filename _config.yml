@@ -1,12 +1,14 @@
 # The GitHub Pages site for this repository: https://sumitsingh4411.github.io/uiround-interview-prep/
 # Built by .github/workflows/pages.yml from README.md and the Markdown files beside it.
-title: Frontend Interview Questions and Answers
+# Every page title ends in the brand ("React interview questions and answers | UIRound"), and the home page reads
+# "UIRound | Frontend Interview Questions and Answers...", so a search for UIRound finds this site too.
+title: UIRound
 description: >-
   Frontend interview questions and answers for JavaScript, React, TypeScript, HTML and CSS, machine coding
   and frontend system design, with a link to solve each one with real tests on UIRound.
 url: https://sumitsingh4411.github.io
 baseurl: /uiround-interview-prep
-tagline: JavaScript, React and System Design
+tagline: Frontend Interview Questions and Answers for JavaScript, React and System Design
 lang: en
 author: Sumit Singh
 logo: /assets/logo.png

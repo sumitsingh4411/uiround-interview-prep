@@ -2,11 +2,11 @@
 
 <a href="https://uiround.com"><img src="assets/logo.png" alt="UIRound logo" width="84" height="84"></a>
 
-# Frontend Interview Questions and Answers
+# UIRound: Frontend Interview Questions and Answers
 
 **JavaScript · React · TypeScript · HTML & CSS · Machine coding · Frontend system design**
 
-Read each question and a short answer here, then solve it on **[UIRound](https://uiround.com)** in a browser editor with real tests, a step-by-step answer and the follow-up questions interviewers ask next. From internships and freshers to SDE-1, SDE-2, senior and staff roles.
+Read each question and a short answer here, then solve it on **[UIRound](https://uiround.com)** in a browser editor with real tests, a step-by-step answer and the follow-up questions interviewers ask next. For college students and freshers from any college (tier-1, tier-2 or tier-3), SDE-1, SDE-2, SDE-3 and senior engineers, and anyone preparing for FAANG and big-tech frontend interviews.
 
 [![Practise with tests on uiround.com](https://img.shields.io/badge/uiround.com-practise%20with%20tests-0071e3?style=for-the-badge)](https://uiround.com)
 [![Free questions in every track](https://img.shields.io/badge/free-questions%20in%20every%20track-34c759?style=for-the-badge)](https://uiround.com/questions?access=free)
@@ -40,11 +40,11 @@ Read each question and a short answer here, then solve it on **[UIRound](https:/
 - [How it works](#how-it-works)
 - [Most asked frontend interview questions](#most-asked-frontend-interview-questions)
 - [Interview questions and answers by topic](#interview-questions-and-answers-by-topic)
-- [Prepare by experience](#prepare-by-experience)
+- [Prepare by experience: freshers, SDE-1, SDE-2, SDE-3](#prepare-by-experience)
 - [Prepare by company](#prepare-by-company)
 - [Free coding questions with tests](#free-questions)
 - [Guides and the system design course](#guides)
-- [What you can do on the site](#what-you-can-do-on-the-site)
+- [What you can do on UIRound](#what-you-can-do-on-uiround)
 - [Frontend interview FAQ](#frontend-interview-faq)
 - [Report a bug or ask for a feature](#found-a-bug-want-something-added)
 
@@ -102,13 +102,21 @@ The concept questions interviewers open with, each with a short answer you can s
 
 ## Prepare by experience
 
-- [College students and interns](https://uiround.com/interview-questions/frontend-internship): Frontend and web developer internship interview questions for college students: HTML, CSS, JavaScript basics, DOM, simple React and easy coding problems.
+Start with the guide for your level. Each explains the rounds and links the free questions to practise:
+
+- **[College students and freshers](prepare/college-students-and-freshers.md):** campus placements, internships and off-campus jobs from tier-2 and tier-3 colleges, year by year.
+- **[SDE-1 frontend interview](prepare/sde-1-frontend-interview.md)** (0 to 2 years) · **[SDE-2](prepare/sde-2-frontend-interview.md)** (2 to 5 years) · **[SDE-3 and senior](prepare/sde-3-senior-frontend-interview.md)** (5+ years)
+- **[FAANG frontend interview preparation](prepare/faang-frontend-interview.md):** Google, Meta, Amazon and other big tech, with an eight-week plan.
+
+Question lists by level on UIRound:
+
+- [College students and interns](https://uiround.com/interview-questions/frontend-internship) (everything for students: [uiround.com/students](https://uiround.com/students)): Frontend and web developer internship interview questions for college students: HTML, CSS, JavaScript basics, DOM, simple React and easy coding problems.
 - [Freshers (0–1 years)](https://uiround.com/interview-questions/freshers): Frontend interview questions for freshers with tested answers: JavaScript fundamentals, polyfills, strings and arrays, DOM and events, CSS layout, and output-based puzzles that are asked in first frontend interviews.
 - [SDE-1 (0–2 years)](https://uiround.com/interview-questions/sde-1-frontend): SDE-1 frontend interview questions with tested answers: JavaScript fundamentals, DOM, HTML and CSS, React hooks, small machine coding builds and easy DSA.
 - [SDE-2 (2–5 years)](https://uiround.com/interview-questions/sde-2-frontend): SDE-2 frontend interview questions with tested answers: async JavaScript, React hooks and patterns, machine coding rounds and browser performance.
 - [JavaScript for 3–5+ years](https://uiround.com/interview-questions/javascript-experienced): JavaScript interview questions for 3 and 5 years of experience: async utilities, promise combinators, concurrency limits, cancellation, caching and browser architecture, with tested answers.
 - [React for 3–5+ years](https://uiround.com/interview-questions/react-experienced): React interview questions for 3 and 5 years of experience: custom hooks, re-renders and memoization, state architecture, concurrent rendering, server components and machine coding, with tested answers.
-- [Senior (5+ years)](https://uiround.com/interview-questions/senior-frontend): Senior frontend interview questions: system design, advanced React, concurrency and cancellation, browser architecture and large-scale machine coding.
+- [SDE-3 and senior (5+ years)](https://uiround.com/interview-questions/senior-frontend): Senior frontend interview questions: system design, advanced React, concurrency and cancellation, browser architecture and large-scale machine coding.
 - [Staff and principal](https://uiround.com/interview-questions/staff-frontend): Staff and principal frontend interview questions: large-scale frontend system design, architecture, performance at scale, platform work and technical leadership.
 
 Not sure which level you are interviewing for? Read [SDE-1 vs SDE-2 vs senior vs staff frontend engineer](https://uiround.com/guides/sde-1-vs-sde-2-vs-senior-vs-staff-frontend).
@@ -129,7 +137,7 @@ How each company runs its frontend interviews, round by round, from public inter
 
 **IT services and consulting:** [Accenture](https://uiround.com/companies/accenture) · [Capgemini](https://uiround.com/companies/capgemini) · [Cognizant](https://uiround.com/companies/cognizant) · [HCLTech](https://uiround.com/companies/hcltech) · [Infosys](https://uiround.com/companies/infosys) · [TCS](https://uiround.com/companies/tcs) · [Tech Mahindra](https://uiround.com/companies/tech-mahindra) · [Wipro](https://uiround.com/companies/wipro)
 
-## What you can do on the site
+## What you can do on UIRound
 
 <table>
 <tr>
@@ -455,6 +463,27 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 ## Frontend interview FAQ
 
 <details>
+<summary><b>What is UIRound?</b></summary>
+
+[UIRound](https://uiround.com) (uiround.com) is a frontend interview practice site. You solve real interview questions in a browser editor, run tests against your code, then read a step-by-step answer and the follow-up questions an interviewer asks next. It covers JavaScript, TypeScript, React, Vue, Angular, HTML and CSS, machine coding rounds and frontend system design, for internships and fresher roles up to senior and staff loops. This repository holds UIRound's free questions and short answers, and is where to report bugs and request features.
+
+</details>
+
+<details>
+<summary><b>Is UIRound free?</b></summary>
+
+Yes, to start. Every track on UIRound has free questions with the full answer and tests, the problem statement of every question is free to read, and the system design course, the quiz, the guides and the online editors are free. Pro unlocks the rest with a one-time payment. See [Free and Pro](#free-and-pro).
+
+</details>
+
+<details>
+<summary><b>Who makes UIRound?</b></summary>
+
+UIRound is written and run by [Sumit Singh](https://github.com/sumitsingh4411), a frontend engineer and the author of the open-source [Frontend Interview Questions handbook](https://github.com/sumitsingh4411/frontend-interview-questions). Read more on the [About page](https://uiround.com/about).
+
+</details>
+
+<details>
 <summary><b>What are the most asked frontend interview questions?</b></summary>
 
 Rebuilding everyday JavaScript tools comes first: flatten an array, `Promise.all`, `debounce`, `throttle`, `curry`, `bind` and `memoize`. Close behind are UI builds such as a todo app, a typeahead with keyboard support and infinite scrolling, and data-structure tasks such as an LRU cache. See the [most asked list](#most-asked-frontend-interview-questions) above.
@@ -489,13 +518,6 @@ Closures, `this`, the event loop and microtasks, promises and async/await, proto
 
 </details>
 
-<details>
-<summary><b>Are the questions free?</b></summary>
-
-Every track has free questions with the full answer and tests, and the problem statement of every question is free to read. Pro unlocks the rest with a one-time payment. See [Free and Pro](#free-and-pro).
-
-</details>
-
 ## Found a bug? Want something added?
 
 Open an issue. Pick the form that fits and it will ask for what we need:
@@ -513,7 +535,7 @@ Were you asked a frontend question that isn't here, or did you just finish an in
 
 ## Free and Pro
 
-**Free:** the questions above with full answers, the problem statement of every question, the system design course, the quiz and flashcards, the roadmaps and study plans, the company guides, the articles and the online editors.
+**Free on UIRound:** the questions above with full answers, the problem statement of every question, the system design course, the quiz and flashcards, the roadmaps and study plans, the company guides, the articles and the online editors.
 
 **Pro** unlocks every answer and its tests, and shows which companies asked each question. Pay once for 7 days, 30 days, 1 year or lifetime: nothing renews. Students who sign in with a college email (ending in .ac.in or .edu) get 10% off the 7-day, 30-day and 1-year passes. See [pricing](https://uiround.com/pricing).
 
@@ -521,7 +543,7 @@ Were you asked a frontend question that isn't here, or did you just finish an in
 
 If this helped you, a star helps other people find it, and so does sharing it with a friend who is preparing.
 
-[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x)](https://x.com/intent/post?text=Frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests&url=https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x)](https://x.com/intent/post?text=UIRound%3A%20frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests&url=https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
 [![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
-[![Share on WhatsApp](https://img.shields.io/badge/share%20on-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/?text=Frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests%3A%20https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
+[![Share on WhatsApp](https://img.shields.io/badge/share%20on-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/?text=UIRound%3A%20frontend%20interview%20questions%20and%20answers%2C%20with%20real%20tests%3A%20https%3A%2F%2Fgithub.com%2Fsumitsingh4411%2Fuiround-interview-prep)
 
