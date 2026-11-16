@@ -1,0 +1,44 @@
+# Advanced React & rendering interview questions
+
+Reconciliation, hooks internals, concurrent rendering and SSR edge cases. Every question in UIRound's Advanced React & rendering track, easiest first, each linking straight to the browser editor with tests.
+
+| Question | Level | Format | Time | Access |
+| --- | --- | --- | --- | --- |
+| [Implement a minimal React-like renderer with virtual DOM diffing and keyed reconciliation](https://uiround.com/questions/implement-a-minimal-react-like-renderer-with-virtual-dom) | Hard | Coding | 75 min | **Free** · [read here](../questions/advanced-react/111-implement-a-minimal-react-like-renderer-with-virtual-dom.md) |
+| [Implement a mini useState and useEffect hooks engine](https://uiround.com/questions/implement-a-mini-usestate-and-useeffect-hooks-engine) | Hard | Coding | 60 min | **Free** · [read here](../questions/advanced-react/112-implement-a-mini-usestate-and-useeffect-hooks-engine.md) |
+| [Implement a fine-grained external state store using useSyncExternalStore without tearing](https://uiround.com/questions/implement-a-fine-grained-external-state-store-using) | Hard | Coding | 60 min | **Free** · [read here](../questions/advanced-react/113-implement-a-fine-grained-external-state-store-using.md) |
+| [Debug React 18 concurrent rendering inconsistencies involving mutable external data](https://uiround.com/questions/debug-react-18-concurrent-rendering-inconsistencies) | Hard | Coding | 60 min | Pro |
+| [Build a React scheduler demonstrating urgent updates versus startTransition() updates](https://uiround.com/questions/build-a-react-scheduler-demonstrating-urgent-updates-versus) | Hard | Coding | 60 min | Pro |
+| [Implement a virtualized grid with variable row heights, overscan, and scroll restoration](https://uiround.com/questions/implement-a-virtualized-grid-with-variable-row-heights) | Hard | Coding | 75 min | Pro |
+| [Build a nested drag-and-drop tree editor with optimistic reordering](https://uiround.com/questions/build-a-nested-drag-and-drop-tree-editor-with-optimistic) | Hard | Coding | 75 min | Pro |
+| [Implement SSR hydration mismatch detection and a reproduction/fix exercise](https://uiround.com/questions/implement-ssr-hydration-mismatch-detection-and-a) | Hard | Coding | 60 min | Pro |
+| [Build a Suspense-based data-loading example with streaming SSR boundaries](https://uiround.com/questions/build-a-suspense-based-data-loading-example-with-streaming) | Hard | Coding | 75 min | Pro |
+| [Build a fault-tolerant React checkout flow with idempotent submission, recovery, and persistent state](https://uiround.com/questions/build-a-fault-tolerant-react-checkout-flow-with-idempotent) | Hard | Coding | 75 min | Pro |
+| [Build a schema-driven form with conditional fields and pluggable field types](https://uiround.com/questions/build-a-schema-driven-form-with-conditional-fields-and-pluggable-field-types) | Hard | Coding | 60 min | **Free** · [read here](../questions/advanced-react/197-build-a-schema-driven-form-with-conditional-fields-and-pluggable-field-types.md) |
+| [Stop use() from suspending forever: a promise cache with read and refresh](https://uiround.com/questions/stop-use-from-suspending-forever-a-promise-cache-with-read-and-refresh) | Hard | Coding | 45 min | Pro |
+| [Fix a DOM node registry that leaks: callback refs with cleanup functions](https://uiround.com/questions/fix-a-dom-node-registry-that-leaks-callback-refs-with-cleanup-functions) | Hard | Coding | 40 min | Pro |
+| [Build a form store where typing in one of 200 fields re-renders only that field](https://uiround.com/questions/build-a-form-store-where-typing-in-one-of-200-fields-re-renders-only-that-field) | Hard | Coding | 45 min | Pro |
+| [Predict side effects during render under StrictMode, Suspense and errors, then move them to effects](https://uiround.com/questions/predict-side-effects-during-render-under-strictmode-suspense-and-errors-then-move-them-to-effects) | Hard | Output-based | 40 min | Pro |
+| [Two React roots are two trees: share state with a portal or useSyncExternalStore](https://uiround.com/questions/two-react-roots-are-two-trees-share-state-with-a-portal-or-usesyncexternalstore) | Hard | Coding | 40 min | Pro |
+| [Adopt the React Compiler without hiding bugs: classify components and order the rollout](https://uiround.com/questions/adopt-the-react-compiler-without-hiding-bugs-classify-components-and-order-the-rollout) | Hard | Coding | 30 min | Pro |
+| [Build a mini React Query: QueryClient, useQuery, prefix invalidation and garbage collection](https://uiround.com/questions/build-a-mini-react-query-queryclient-usequery-prefix-invalidation-and-garbage-collection) | Hard | Coding | 60 min | Pro |
+| [Build useContextSelector: re-render a consumer only when its slice of context changes](https://uiround.com/questions/build-usecontextselector-re-render-a-consumer-only-when-its-slice-of-context-changes) | Hard | Coding | 45 min | Pro |
+| [Build a bidirectional chat list: load older and newer pages, cap the DOM and keep the reader's place](https://uiround.com/questions/build-a-bidirectional-chat-list-load-older-and-newer-pages-cap-the-dom-and-keep-the-reader-s-place) | Hard | Coding | 60 min | Pro |
+| [Build nested route loaders and actions: parallel loading, <Outlet>, pending UI, aborts and revalidation](https://uiround.com/questions/build-nested-route-loaders-and-actions-parallel-loading-outlet-pending-ui-aborts-and-revalidation) | Hard | Coding | 60 min | Pro |
+| [Stream a Server Components-style payload: $L placeholders, client references and out-of-order rows](https://uiround.com/questions/stream-a-server-components-style-payload-l-placeholders-client-references-and-out-of-order-rows) | Hard | Coding | 60 min | Pro |
+| [Build keep-alive tabs like <Activity>: keep hidden state, pause effects and skip hidden re-renders](https://uiround.com/questions/build-keep-alive-tabs-like-activity-keep-hidden-state-pause-effects-and-skip-hidden-re-renders) | Hard | Coding | 45 min | Pro |
+| [Put React's update work in order: render and commit phases, what can be interrupted, and lanes](https://uiround.com/questions/put-react-s-update-work-in-order-render-and-commit-phases-what-can-be-interrupted-and-lanes) | Hard | Coding | 35 min | Pro |
+| [Build createSlice() and createAsyncThunk() from scratch, wired to a store and React](https://uiround.com/questions/build-createslice-and-createasyncthunk-from-scratch-wired-to-a-store-and-react) | Hard | Coding | 60 min | Pro |
+| [Build React.lazy and Suspense from scratch with the thrown-promise protocol](https://uiround.com/questions/build-react-lazy-and-suspense-from-scratch-with-the-thrown-promise-protocol) | Hard | Coding | 60 min | Pro |
+| [Build a modal stack manager: nested modals, focus restore, scroll lock counting and Escape for the top one](https://uiround.com/questions/build-a-modal-stack-manager-nested-modals-focus-restore-scroll-lock-counting-and-escape-for-the-top-one) | Hard | Coding | 60 min | Pro |
+| [Build useOptimistic from scratch: queued optimistic updates, rebase on server results and rollback](https://uiround.com/questions/build-useoptimistic-from-scratch-queued-optimistic-updates-rebase-on-server-results-and-rollback) | Hard | Coding | 60 min | Pro |
+| [Check React Server Component boundaries: missing 'use client', server-only imports in client code and non-serialisable props](https://uiround.com/questions/check-react-server-component-boundaries-missing-use-client-server-only-imports-in-client-code-and-non-serialisable-props) | Hard | Coding | 50 min | Pro |
+| [Render streamed Markdown in React without flicker using incremental parsing, stable keys and safe partial syntax](https://uiround.com/questions/render-streamed-markdown-in-react-without-flicker-using-incremental-parsing-stable-keys-and-safe-partial-syntax) | Hard | Coding | 60 min | Pro |
+| [Predict which errors an error boundary catches: render, effects, event handlers, async code and its own render](https://uiround.com/questions/predict-which-errors-an-error-boundary-catches-render-effects-event-handlers-async-code-and-its-own) | Hard | Output-based | 30 min | Pro |
+| [Implement React-Redux's connect(): mapStateToProps, mapDispatchToProps forms, ownProps and skipped renders](https://uiround.com/questions/implement-react-reduxs-connect-mapstatetoprops-mapdispatchtoprops-forms-ownprops-and-skipped-renders) | Hard | Coding | 60 min | Pro |
+
+---
+
+Every question opens on [UIRound](https://uiround.com) with the problem, starter code and tests in a browser editor. Questions marked **Free** have the full answer free; the rest are part of [Pro](https://uiround.com/pricing), and their problem statement is free to read.
+
+[All tracks](README.md) · [Free questions with answers](../README.md#free-questions) · [Guides by level](../prepare/README.md) · [UIRound](https://uiround.com)

@@ -12,7 +12,7 @@ Read each question and a short answer here, then solve it on **[UIRound](https:/
 [![Free questions in every track](https://img.shields.io/badge/free-questions%20in%20every%20track-34c759?style=for-the-badge)](https://uiround.com/questions?access=free)
 [![Last commit](https://img.shields.io/github/last-commit/sumitsingh4411/uiround-interview-prep?style=for-the-badge&color=a855f7)](https://github.com/sumitsingh4411/uiround-interview-prep/commits/main)
 
-[**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans)
+[**All questions**](all-questions/README.md) &nbsp;·&nbsp; [**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans)
 
 </div>
 
@@ -38,6 +38,7 @@ Read each question and a short answer here, then solve it on **[UIRound](https:/
 ## Contents
 
 - [How it works](#how-it-works)
+- [All questions, by track](all-questions/README.md)
 - [Most asked frontend interview questions](#most-asked-frontend-interview-questions)
 - [Interview questions and answers by topic](#interview-questions-and-answers-by-topic)
 - [Prepare by experience: freshers, SDE-1, SDE-2, SDE-3](#prepare-by-experience)
@@ -315,36 +316,36 @@ See them all on the site: [free questions](https://uiround.com/questions?access=
 
 ## Tracks
 
-Questions are grouped into tracks, from warm-ups to senior-level system design.
+Questions are grouped into tracks, from warm-ups to senior-level system design. Each track links to its full list of questions, each one a link straight to the question on UIRound. See [all questions, by track](all-questions/README.md).
 
 **Easy**
 
-- [JavaScript fundamentals](https://uiround.com/questions?category=js-fundamentals): Rebuild the core array and function methods every interviewer expects you to know cold.
-- [Strings, objects & algorithms](https://uiround.com/questions?category=strings-objects-algorithms): Hash maps, stacks and object utilities that show up in every warm-up round.
-- [Browser & DOM fundamentals](https://uiround.com/questions?category=dom-fundamentals): Traverse, query and wire up the DOM without a framework.
-- [TypeScript utility types](https://uiround.com/questions?category=typescript-basics): Rebuild Pick, Omit, Partial, Readonly and the other built-in utility types, checked by the real compiler.
-- [HTML & CSS](https://uiround.com/questions?category=html-css): Hands-on markup and styling tasks: semantic pages, tables, counters, hairlines, charts and layouts in pure CSS.
+- [JavaScript fundamentals](all-questions/js-fundamentals.md): Rebuild the core array and function methods every interviewer expects you to know cold.
+- [Strings, objects & algorithms](all-questions/strings-objects-algorithms.md): Hash maps, stacks and object utilities that show up in every warm-up round.
+- [Browser & DOM fundamentals](all-questions/dom-fundamentals.md): Traverse, query and wire up the DOM without a framework.
+- [TypeScript utility types](all-questions/typescript-basics.md): Rebuild Pick, Omit, Partial, Readonly and the other built-in utility types, checked by the real compiler.
+- [HTML & CSS](all-questions/html-css.md): Hands-on markup and styling tasks: semantic pages, tables, counters, hairlines, charts and layouts in pure CSS.
 
 **Medium**
 
-- [JavaScript utilities & FP](https://uiround.com/questions?category=js-utilities): debounce, throttle, curry, deep clone, LRU — the utility belt of senior rounds.
-- [Promises & async](https://uiround.com/questions?category=promises-async): Promise combinators and async helpers implemented from scratch.
-- [Concurrency & scheduling](https://uiround.com/questions?category=concurrency-scheduling): Pools, queues, rate limiters and batching with bounded concurrency.
-- [React hooks & state](https://uiround.com/questions?category=react-hooks-state): Custom hooks without stale closures, plus a store built from first principles.
-- [React application patterns](https://uiround.com/questions?category=react-patterns): Search, optimistic UI, pagination, forms and virtualization done right.
-- [UI machine coding](https://uiround.com/questions?category=ui-machine-coding): Accessible, keyboard-friendly widgets built under interview time pressure.
-- [Browser, network & performance](https://uiround.com/questions?category=browser-network-performance): Fetch wrappers, routers, workers, caching and Web Vitals in practice.
-- [Algorithms & data structures](https://uiround.com/questions?category=dsa-patterns): Trees, linked lists, intervals, sliding windows and dynamic programming: the patterns behind algorithm rounds.
-- [TypeScript type challenges](https://uiround.com/questions?category=typescript-types): Type-level puzzles checked by the real compiler: infer, template literal types, tuples and recursion.
+- [JavaScript utilities & FP](all-questions/js-utilities.md): debounce, throttle, curry, deep clone, LRU — the utility belt of senior rounds.
+- [Promises & async](all-questions/promises-async.md): Promise combinators and async helpers implemented from scratch.
+- [Concurrency & scheduling](all-questions/concurrency-scheduling.md): Pools, queues, rate limiters and batching with bounded concurrency.
+- [React hooks & state](all-questions/react-hooks-state.md): Custom hooks without stale closures, plus a store built from first principles.
+- [React application patterns](all-questions/react-patterns.md): Search, optimistic UI, pagination, forms and virtualization done right.
+- [UI machine coding](all-questions/ui-machine-coding.md): Accessible, keyboard-friendly widgets built under interview time pressure.
+- [Browser, network & performance](all-questions/browser-network-performance.md): Fetch wrappers, routers, workers, caching and Web Vitals in practice.
+- [Algorithms & data structures](all-questions/dsa-patterns.md): Trees, linked lists, intervals, sliding windows and dynamic programming: the patterns behind algorithm rounds.
+- [TypeScript type challenges](all-questions/typescript-types.md): Type-level puzzles checked by the real compiler: infer, template literal types, tuples and recursion.
 
 **Hard**
 
-- [Advanced async concurrency](https://uiround.com/questions?category=advanced-concurrency): Schedulers, cancellation, backpressure and resilience patterns.
-- [Advanced React & rendering](https://uiround.com/questions?category=advanced-react): Reconciliation, hooks internals, concurrent rendering and SSR edge cases.
-- [Advanced JS, browser & architecture](https://uiround.com/questions?category=advanced-browser-architecture): Sandboxes, parsers, reactivity, offline sync and secure messaging.
-- [Advanced TypeScript types](https://uiround.com/questions?category=advanced-typescript-types): Union to intersection, typed paths, parsers in the type system and other senior-level type puzzles.
-- [Frontend system design](https://uiround.com/questions?category=frontend-system-design): Design the frontends of WhatsApp, Docs, YouTube, Sheets and more.
-- [Advanced machine coding & DSA](https://uiround.com/questions?category=advanced-machine-coding-dsa): Spreadsheets, editors, IDEs and the data structures behind them.
+- [Advanced async concurrency](all-questions/advanced-concurrency.md): Schedulers, cancellation, backpressure and resilience patterns.
+- [Advanced React & rendering](all-questions/advanced-react.md): Reconciliation, hooks internals, concurrent rendering and SSR edge cases.
+- [Advanced JS, browser & architecture](all-questions/advanced-browser-architecture.md): Sandboxes, parsers, reactivity, offline sync and secure messaging.
+- [Advanced TypeScript types](all-questions/advanced-typescript-types.md): Union to intersection, typed paths, parsers in the type system and other senior-level type puzzles.
+- [Frontend system design](all-questions/frontend-system-design.md): Design the frontends of WhatsApp, Docs, YouTube, Sheets and more.
+- [Advanced machine coding & DSA](all-questions/advanced-machine-coding-dsa.md): Spreadsheets, editors, IDEs and the data structures behind them.
 
 ## Questions by topic
 
