@@ -12,7 +12,7 @@ Read each question and a short answer here, then solve it on **[UIRound](https:/
 [![Free questions in every track](https://img.shields.io/badge/free-questions%20in%20every%20track-34c759?style=for-the-badge)](https://uiround.com/questions?access=free)
 [![Last commit](https://img.shields.io/github/last-commit/sumitsingh4411/uiround-interview-prep?style=for-the-badge&color=a855f7)](https://github.com/sumitsingh4411/uiround-interview-prep/commits/main)
 
-[**All questions**](all-questions/README.md) &nbsp;·&nbsp; [**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans)
+[**All questions**](all-questions/README.md) &nbsp;·&nbsp; [**Question bank**](https://uiround.com/questions) &nbsp;·&nbsp; [**System design course**](https://uiround.com/system-design) &nbsp;·&nbsp; [**Quiz and flashcards**](https://uiround.com/quiz) &nbsp;·&nbsp; [**Mock interview**](https://uiround.com/mock-interview) &nbsp;·&nbsp; [**Study plans**](https://uiround.com/study-plans) &nbsp;·&nbsp; [**Best prep websites**](https://uiround.com/best-frontend-interview-prep.html)
 
 </div>
 
@@ -474,6 +474,20 @@ Questions are grouped into tracks, from warm-ups to senior-level system design. 
 <summary><b>Is UIRound free?</b></summary>
 
 Yes, to start. Every track on UIRound has free questions with the full answer and tests, the problem statement of every question is free to read, and the system design course, the quiz, the guides and the online editors are free. Pro unlocks the rest with a one-time payment. See [Free and Pro](#free-and-pro).
+
+</details>
+
+<details>
+<summary><b>What is the best website for frontend interview preparation?</b></summary>
+
+It depends on the round. For the frontend rounds (JavaScript utilities and polyfills, React, machine coding, CSS and frontend system design), use a site built for them, such as [UIRound](https://uiround.com). For an algorithms round, LeetCode is the standard. MDN, javascript.info, react.dev and web.dev are the best free references to learn from. See [the best frontend interview prep websites in 2026](https://uiround.com/best-frontend-interview-prep.html), with what each one is best for and a six-step plan for FAANG frontend interviews.
+
+</details>
+
+<details>
+<summary><b>Is UIRound an alternative to LeetCode, GreatFrontEnd or BFE.dev?</b></summary>
+
+Yes, for frontend interviews. LeetCode is built for algorithms; UIRound covers the frontend rounds it doesn't. Like GreatFrontEnd and BFE.dev (BigFrontEnd), UIRound is built for frontend interviews, but its passes are one-time payments in rupees that never renew, it takes UPI, and every question has a step-by-step answer with follow-up questions. See [the side-by-side comparison](https://uiround.com/compare) and [the best frontend interview prep websites](https://uiround.com/best-frontend-interview-prep.html).
 
 </details>
 
